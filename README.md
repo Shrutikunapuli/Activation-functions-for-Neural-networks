@@ -5,7 +5,7 @@ In simple words, the activation function is an equation that is used to convert 
 The main objective of the activation function is to introduce non-linearilty to neuron and determine whether to activate a neuron in a layer or not. Such that, during model building, only the activated neurons are considered.
 
 
-# Basic features of any activation function are:
+## Basic features of any activation function are:
 1) It must be differential- In the process of backpropgation.
 
 2) Ideally Non-linear - They allow the model to create complex mappings between the network’s inputs and outputs, which are essential for learning and modeling complex and multidimensional data.
@@ -13,7 +13,7 @@ The main objective of the activation function is to introduce non-linearilty to 
 There are several activation functions, can be compared by computational efficiency because they are calculated across thousands and millions of data or by taking gradient.
 
 
-# Widely used activation functions are as follows:
+## Widely used activation functions are as follows:
 1) Sigmoid
 
 2) Tanh(Hyperbolic tangent)
