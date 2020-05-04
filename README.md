@@ -5,4 +5,5 @@ In simple words, the activation function is an equation that is used to convert 
 The main objective of the activation function is to introduce non-linearilty to neuron and determine whether to activate a neuron in a layer or not. Such that, during model building, only the activated neurons are considered.
 
 
-![alt text](C:\Users\skunapuli\Pictures\acti.PNG)
+
+![Screenshot](C:\Users\skunapuli\Pictures\acti.PNG)
