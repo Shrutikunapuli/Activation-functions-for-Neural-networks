@@ -23,3 +23,4 @@ There are several activation functions, can be compared by computational efficie
 4) Softmax
 
 5) Swish
+
