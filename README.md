@@ -6,4 +6,4 @@ The main objective of the activation function is to introduce non-linearilty to 
 
 
 
-![Screenshot](C:\Users\skunapuli\Pictures\acti.PNG)
+![Screenshot](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fmissinglink.ai%2Fguides%2Fneural-network-concepts%2F7-types-neural-network-activation-functions-right%2F&psig=AOvVaw2nzDHAroDz9KucZA-H6flC&ust=1588690305580000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPju9Pu6mukCFQAAAAAdAAAAABAD)
